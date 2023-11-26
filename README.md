@@ -23,7 +23,7 @@ Experienced IT Analyst with a background as an Electronic Security Systems Engin
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="FrankGrimmer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/fandango.svg" />][website]
+[<img align="left" alt="FrankGrimmer | LinkedIn" width="22px" src="https://github.com/FrankGrimmer/FrankGrimmer/assets/136235216/f687cd84-a46e-4181-92eb-aa02e8bd4282" />][website]
 [<img align="left" alt="FrankGrimmer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="FrankGrimmer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/gmail.svg" />][email]
 
@@ -31,12 +31,11 @@ Experienced IT Analyst with a background as an Electronic Security Systems Engin
 [linkedin]: https://linkedin.com/in/FrankGrimmer
 [email]: mailto:frank@frankgrimmer.dev
 
-
 <!--
 **FrankGrimmer/FrankGrimmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/fandango.svg
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
