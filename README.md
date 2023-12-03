@@ -4,12 +4,16 @@ Experienced IT Analyst with a background as an Electronic Security Systems Engin
 
 - <b>[Password Cracking Tool](https://github.com/FrankGrimmer/dictionary-password-cracker)</b>
   - Python
+- <b>[Keylogger](https://github.com/FrankGrimmer/keylogger)</b>
+  - Python
 - <b>[File Integrity Monitoring Tool](https://github.com/FrankGrimmer/file-integrity-monitor)</b>
   - Powershell
 - <b>[SIEM & Honeypot](https://www.frankgrimmer.dev/siem-honeypot)</b>
   - Azure/Microsoft Sentinel, KQL, Powershell, APIs, VMs
 - <b>[Homelab](https://www.frankgrimmer.dev/homelab)</b>
   - Linux, Docker, VLANs, Networking, VMWare, Vulnerability Testing
+- <b>[Vulnerability Management](https://www.frankgrimmer.dev/vulnerability-management)</b>
+  - Nessus, Vulnerability Testing, VMWare
 
 <h2>Certifications</h2>
 
