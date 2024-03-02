@@ -19,6 +19,7 @@ I've taken on several projects that demonstrate my hands-on skills and proactive
 
 <h2>Certifications</h2>
 
+- Microsoft SC-200
 - CompTIA Security+
 - ISC2 CC
 - Splunk Core Certified User
