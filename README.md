@@ -8,6 +8,8 @@ I've taken on several projects that demonstrate my hands-on skills and proactive
   - Python
 - <b>[Keylogger](https://github.com/FrankGrimmer/keylogger)</b>
   - Python
+- <b>[Caesar Cipher Encryption Tool](https://github.com/FrankGrimmer/caesar-cipher)</b>
+  - Python
 - <b>[File Integrity Monitoring Tool](https://github.com/FrankGrimmer/file-integrity-monitor)</b>
   - Powershell
 - <b>[SIEM & Honeypot](https://www.frankgrimmer.dev/siem-honeypot)</b>
@@ -17,6 +19,7 @@ I've taken on several projects that demonstrate my hands-on skills and proactive
 - <b>[Vulnerability Management](https://www.frankgrimmer.dev/vulnerability-management)</b>
   - Nessus, Vulnerability Testing, VMWare
 
+ 
 <h2>Certifications</h2>
 
 - Microsoft SC-200
