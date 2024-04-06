@@ -23,6 +23,7 @@ I've taken on several projects that demonstrate my hands-on skills and proactive
 - CompTIA Security+
 - ISC2 CC
 - Splunk Core Certified User
+- AWS Certified Cloud Practitioner
 - Cisco (Cyber Threat Management, Network Defense, Endpoint Security, Ethical Hacker, Introduction to Cyber Security)
 - Oracle (OCI Certified Foundations Associate, OCI AI Certified Foundations Associate, Cloud Data Management Foundations)
 - Advanced Diploma in IT and Cyber Security - Level 5
