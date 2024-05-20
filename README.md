@@ -12,7 +12,7 @@ I've taken on several projects that demonstrate my hands-on skills and proactive
   - Python
 - <b>[File Integrity Monitoring Tool](https://github.com/FrankGrimmer/file-integrity-monitor)</b>
   - Powershell
-- <b>[SIEM & Honeypot](https://www.frankgrimmer.dev/siem-honeypot)</b>
+- <b>[SIEM & Honeypot](https://frankgrimmer.dev/siem-and-honeypot/)</b>
   - Azure/Microsoft Sentinel, KQL, Powershell, APIs, VMs
 - <b>[Homelab](https://www.frankgrimmer.dev/homelab)</b>
   - Linux, Docker, VLANs, Networking, VMWare, Vulnerability Testing
