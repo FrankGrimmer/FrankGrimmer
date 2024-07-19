@@ -1,5 +1,5 @@
 <h1>Frank Grimmer<br/></h1>
-Experienced IT Analyst with a background as a Security Systems Engineer.
+Experienced Cyber Security Specialist with a background as a Security Systems Engineer.
 <br />
 I've taken on several projects that demonstrate my hands-on skills and proactive initiative. These projects, fuelled by a genuine interest in learning and experimentation, showcase my practical expertise in various IT and Cybersecurity areas.
 <h2>Projects:</h2>
