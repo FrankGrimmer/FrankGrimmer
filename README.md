@@ -19,7 +19,7 @@ I've taken on several projects that demonstrate my hands-on skills and proactive
 - <b>[Vulnerability Management](https://www.frankgrimmer.dev/vulnerability-management)</b>
   - Nessus, Vulnerability Testing, VMWare
 
- 
+<!-- Commenting out Certifications section
 <h2>Certifications</h2>
 
 - Microsoft SC-200
@@ -31,7 +31,7 @@ I've taken on several projects that demonstrate my hands-on skills and proactive
 - Oracle (OCI Certified Foundations Associate, OCI AI Certified Foundations Associate, Cloud Data Management Foundations)
 - Advanced Diploma in IT and Cyber Security - Level 5
 - Electronic Security and Emergency Systems - NVQ
-
+-->
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="FrankGrimmer | LinkedIn" width="22px" src="https://github.com/FrankGrimmer/FrankGrimmer/assets/136235216/f687cd84-a46e-4181-92eb-aa02e8bd4282" />][website]
